@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Connice Trimmingham
-- 👀 I’m interested in machine learning and data science 
+- 👀 I’m interested in Machine Learning  Artificail Intelliegence and Data Science 
 - 🌱 I’m currently learning different machine learning algorithms
 
 
