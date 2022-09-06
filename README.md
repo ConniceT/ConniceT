@@ -5,8 +5,6 @@ She is highly skilled in statistical analysis, data modeling, and communication 
 
 Key Competencies:
 - Data Engineering
-- Data Science 
-- Data Analysis 
 - Statistical Analysis 
 - Machine Learning 
 - Artificial Intelligence 
@@ -15,7 +13,7 @@ Key Competencies:
 
 
 Technologies:
-Python,Swift, React, Java, SQL,Mysql, Javascript, C#, R, Tableau, PowerBI
+Python, React, Java, SQL,Mysql, Javascript, C#, R, Tableau, PowerBI
 
 Please connicet@gmail.com to find out how she may add value to your organization.
 
