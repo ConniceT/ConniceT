@@ -11,6 +11,8 @@ She enjoys building her skills in the following areas:
 - Leadership and Management 
 
 
+
+
 🤖 Technologies:
 ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem
 ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure
@@ -20,11 +22,16 @@ She enjoys building her skills in the following areas:
 ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau
 
 
+
+
 🤖 Education:
 University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022
 Masters in Computer Science
       ○ Major achievement: Achieved 1st place at the Donaghey College of STEM for developing an image and video editing app 
       that utilized semantic photo segmentation and object detection algorithms.
+      
+      
+      
       
       
 🤖 PROFESSIONAL CERTIFICATIONS
@@ -38,5 +45,5 @@ Learning)
 
 
 
-Please connicet@gmail.com to find out how she may add value to your organization.
+Please take a look a around and contact connicet@gmail.com to find out how she may add value to your organization.
 
