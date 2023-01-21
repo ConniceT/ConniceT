@@ -3,7 +3,7 @@
 She enjoys building her skills in the following areas:
 
 🤖 Key Competencies:
-- - Software Development - (backend)
+- Software Development - (backend)
 - Data Engineering
 - Statistical Analysis 
 - Machine Learning 
