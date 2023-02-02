@@ -1,0 +1,19 @@
+{
+  "name": "mustache",
+  "version": "1.0.0",
+  "description": "She enjoys building her skills in the following areas:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConniceT/ConniceT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConniceT/ConniceT/issues"
+  },
+  "homepage": "https://github.com/ConniceT/ConniceT#readme"
+}
