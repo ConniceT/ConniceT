@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ConniceT/ConniceT/issues"
   },
-  "homepage": "https://github.com/ConniceT/ConniceT#readme"
+  "homepage": "https://github.com/ConniceT/ConniceT#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
