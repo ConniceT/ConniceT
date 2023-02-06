@@ -28,7 +28,7 @@ let DATA = {
 
  async function setWeatherInformation() {
   await fetch(
-    `https://api.thermap.org/data/2.5/weather?q=Arkansas&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.thermap.org/geo/1.0/direct?q=Arkansas&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -48,11 +48,12 @@ let DATA = {
     });
 }
 
-
-
-
-
-
+async function setInstagramPosts() {
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('adventureislandsvg', 3);
+  DATA.img1 = instagramImages[0];
+  DATA.img2 = instagramImages[1];
+  DATA.img3 = instagramImages[2];
+}
 
 
 
@@ -70,10 +71,14 @@ async function action() {
    */
   await setWeatherInformation();
 
+  await setInstagramPosts();
+
   /**
    * Generate README
    */
   await generateReadMe();
+  
+  await puppeteerService.close();
 
  
 }
