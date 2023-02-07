@@ -4,18 +4,19 @@
 <p> Hi there. Welcome to my github. </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
 <h3> I enjoy building my skills in the following areas: </h3>
 
-<p> Software Development - (backend) </p>
-<p> Data Engineering </p>
-<p> Machine Learning </p>
-<p> Artificial Intelligence </p>
+<p>⭐️  Software Development - (backend) </p>
+<p>⭐️  Data Engineering </p>
+<p>⭐️  Machine Learning </p>
+<p>⭐️  Artificial Intelligence </p>
 </p>
-
+</b> 
 </b> 
 </p>
 
 
 <p>🤖 Education: </p>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
+</b> 
 </b> 
 
 <p>🤖 Technologies: </p>
