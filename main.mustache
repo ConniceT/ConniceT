@@ -14,12 +14,12 @@
 </p>
 
 
-<h3> 🤖 Education: />
+<h3> 🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
 </b> 
 </b> 
 
-<h3>🤖 Skills: />
+<h3>🤖 Skills: </h3>
 <p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
 <p> ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure </p>
 <p> ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow
@@ -29,7 +29,7 @@
 
 
 
-<h3> 🤖 Things I code with />
+<h3> 🤖 Things I code with </h3>
 </p>
 
 <p>
@@ -46,7 +46,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3> 🤖 PROFESSIONAL CERTIFICATIONS />
+<h3> 🤖 PROFESSIONAL CERTIFICATIONS </h3>
 <p>  ⭐️ Nvidia Deep learning </p>
 <p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
 <p> ⭐️ AWS Cloud Solutions Architect Acquired deep understanding of cloud technologies such as S3, CloudFront, EC2, lambda redshift</p>
