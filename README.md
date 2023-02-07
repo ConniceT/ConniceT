@@ -1,26 +1,31 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width= "30" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width= "60" , height="80"/>
 
 
 <p> Hi there. Welcome to my github. </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
-<h3> enjoy building my skills in the following areas: </h3>
+<h3> I enjoy building my skills in the following areas: </h3>
 
-<p>
-Software Development - (backend)
-Data Engineering
-Machine Learning
-Artificial Intelligence
+<p> Software Development - (backend) </p>
+<p> Data Engineering </p>
+<p> Machine Learning </p>
+<p> Artificial Intelligence </p>
 </p>
 
 </b> 
 </p>
-<p>🤖 Technologies: ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js,
+
+
+<p>🤖 Education: </p>
+<p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
+</b> 
+
+<p>🤖 Technologies: </p>
+ ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js,
  PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning. ● Database: SQL, mySQL, MongoDB, Elastic search ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau
+
+
+
 <h3>Things I code with</h3>
 </p>
-
-
-<p>🤖 Education: University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022 
-                Masters in Computer Science</p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -47,4 +52,4 @@ Artificial Intelligence
 <p> Please take a look a around and contact connicet@gmail.com to find out how she may add value to your organization. </p>
 <img alt="LinkedIn" src="https://www.linkedin.com/in/connice-trimmingham-7b9131158/" /></a> 
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: <br />
