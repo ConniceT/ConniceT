@@ -14,14 +14,18 @@
 </p>
 
 
-<p>🤖 Education: </p>
+<h3>🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
 </b> 
 </b> 
 
-<p>🤖 Technologies: </p>
- ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js,
- PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning. ● Database: SQL, mySQL, MongoDB, Elastic search ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau
+<h3>🤖 Skills: </h3>
+<p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
+<p> ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure </p>
+<p> ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow
+<p> ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning.</p>
+<p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
+<p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
 
 
 
