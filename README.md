@@ -33,7 +33,7 @@
 
 </br> 
 <div>
-<h3> 🤖 Things I code with </h3>
+<h3> 🤖 Things I code with: </h3>
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -71,7 +71,7 @@
 
 <div>
 </br>
-<h3> 🤖 PROFESSIONAL CERTIFICATIONS </h3>
+<h3> 🤖 Professional Certifications: </h3>
 <p>  ⭐️ Nvidia Deep learning </p>
 <p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
 <p> ⭐️ AWS Cloud Solutions Architect Acquired deep understanding of cloud technologies such as S3, CloudFront, EC2, lambda redshift</p>
