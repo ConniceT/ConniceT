@@ -8,9 +8,8 @@
 
 <div>
 <p> </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
+
 <h3> I enjoy building my skills in the following areas: </h3>
-
-
 <p>⭐️  Software Development - (backend) </p>
 <p>⭐️  Data Engineering </p>
 <p>⭐️  Machine Learning </p>
@@ -32,12 +31,10 @@
 <p> ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning.</p>
 <p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
 <p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
-
 </div>
 
 <div>
 <h3> 🤖 Things I code with </h3>
-</p>
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -71,7 +68,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
-
 </p>
 
 <div>
@@ -82,7 +78,6 @@
 <p> ⭐️ Computer Vision -Python (OpenCV)-YOLO, SSD - Built a trained model to detect and track facial covid mask images.(Unsupervised Learning) </p>
 <p> ⭐️ Python Multithreading, Parallel Computing, OOP, NumPy - Gained a thorough understanding of process resources management </p>
 <p> ⭐️ Appian Web development (USF): Collaborated with a team of 4 to build backend systems that incorporate workflows for different university departments.</p>
-
 <p> Please take a look a around and contact connicet@gmail.com to find out how she may add value to your organization. </p>
 </div>
 
