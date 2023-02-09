@@ -75,7 +75,7 @@
 </p>
 
 <div>
-<h3> 🤖 PROFESSIONAL CERTIFICATIONS </h3>
+<p> 🤖 PROFESSIONAL CERTIFICATIONS </p>
 <p>  ⭐️ Nvidia Deep learning </p>
 <p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
 <p> ⭐️ AWS Cloud Solutions Architect Acquired deep understanding of cloud technologies such as S3, CloudFront, EC2, lambda redshift</p>
@@ -84,13 +84,12 @@
 <p> ⭐️ Appian Web development (USF): Collaborated with a team of 4 to build backend systems that incorporate workflows for different university departments.</p>
 
 <p> Please take a look a around and contact connicet@gmail.com to find out how she may add value to your organization. </p>
-
 </div>
 
 
 <p align="center"><a href="https://github.com/ConniceT" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/connice-trimmingham-7b9131158/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- </p>
  <img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/>
+</p>
 
 <p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: <br />
