@@ -85,7 +85,7 @@
 
 <p align="center"><a href="https://github.com/ConniceT" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/connice-trimmingham-7b9131158/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://connicet.github.io/" target="_blank"><img alt="Website" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yxwgk&psig=AOvVaw3YgOow8dGj4t58EbUxVW-g&ust=1676064977144000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi4tt6yif0CFQAAAAAdAAAAABAE" /></a>
+<a href="https://connicet.github.io/" target="_blank"><img alt="ConniceT.io" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" /></a>
 
 </p>
 
