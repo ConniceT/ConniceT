@@ -18,10 +18,11 @@
 
 
 <div>
+ <hr color="green" />
 <h3> 🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
 </br> 
-
+<br/>
 <h3>🤖 Skills: </h3>
 <p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
 <p> ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure </p>
@@ -30,9 +31,10 @@
 <p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
 <p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
 </div>
-
+<br/>
 
 <div>
+<hr color="green" />
 <h3> 🤖 Things I code with: </h3>
 
 <p>
@@ -68,8 +70,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
 </p>
 </div>
+<br/>
 
 <div>
+ <hr color="green" />
 <h3> 🤖 Professional Certifications: </h3>
 <p>  ⭐️ Nvidia Deep learning </p>
 <p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
