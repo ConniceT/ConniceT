@@ -21,7 +21,7 @@
  <hr color="green" />
 <h3> 🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
-</br> 
+
 <br/>
 <h3>🤖 Skills: </h3>
 <p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
@@ -31,12 +31,11 @@
 <p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
 <p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
 </div>
-<br/>
+
 
 <div>
 <hr color="green" />
 <h3> 🤖 Things I code with: </h3>
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
