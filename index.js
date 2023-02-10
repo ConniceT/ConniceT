@@ -12,7 +12,7 @@ const puppeteerService = require('./services/puppeteer.service');
 */
 let DATA = {
   name: 'Connice',
-  date: new Date().toLocaleDateString('en-US', {
+  refresh_date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',

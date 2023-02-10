@@ -12,7 +12,7 @@
 <h3> I enjoy building my skills in the following areas: </h3>
 <p>⭐️  Software Development - (backend) </p>
 <p>⭐️  Data Engineering </p>
-<p>⭐️  Machine Learning </p>
+<p>⭐️  Cloud technologies </p>
 <p>⭐️  Artificial Intelligence </p>
 </div>
 
@@ -21,7 +21,6 @@
  <hr color="green" />
 <h3> 🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
-
 <br/>
 <h3>🤖 Skills: </h3>
 <p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
@@ -92,4 +91,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: <br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 10 at 5:55 PM CST<br />
