@@ -31,7 +31,7 @@
 <p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
 </div>
 
-</br> 
+
 <div>
 <h3> 🤖 Things I code with: </h3>
 
@@ -67,12 +67,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
 </p>
-
-<br/>
-<br/>
+</div>
 
 <div>
-</br>
 <h3> 🤖 Professional Certifications: </h3>
 <p>  ⭐️ Nvidia Deep learning </p>
 <p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
@@ -92,5 +89,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-
 <p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: <br />
