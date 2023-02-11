@@ -83,7 +83,7 @@
 </div>
 
 
-<h3>I am from Saint Vincent and the Grenadines, here are 3 beautiful pictures of my island.</h3>
+<h3>I am from Saint Vincent and the Grenadines, Here are 3 beautiful pictures of my island.</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>credits: <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a></p>
 
@@ -96,4 +96,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 10 at 9:02 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 10 at 9:07 PM CST<br />
