@@ -64,7 +64,7 @@ class PuppeteerService {
       await this.page.waitForTimeout(1000);
       
       const nodes = await this.page.evaluate(() => {
-        const images = document.querySelectorAll(`img`);
+        const images = document.querySelectorAll(`.post-image`);
         return [].map.call(images, img => img.src);
       });
 
