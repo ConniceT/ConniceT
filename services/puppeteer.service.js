@@ -54,18 +54,17 @@ class PuppeteerService {
     try {
       const page = `https://www.picuki.com/profile/${acc}`;
       await this.goToPage(page);
-      
-      await this.page.waitForTimeout(1000);
+    
   
       let previousHeight;
 
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
 
-  
+      await this.page.waitForTimeout(1000);
       
       const nodes = await this.page.evaluate(() => {
-        const images = document.querySelectorAll(`.post-image`);
+        const images = document.querySelectorAll(`img`);
         return [].map.call(images, img => img.src);
       });
 
