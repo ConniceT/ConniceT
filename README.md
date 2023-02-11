@@ -82,18 +82,8 @@
 <p> Please take a look a around and contact connicet@gmail.com to find out how she may add value to your organization. </p>
 </div>
 
-<div>>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Saint Vincent</h3>
+
+<h3>I am from Saint Vincent and the Grenadines, here are 3 beautiful pictures of my island.</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<
-
-</div>
-
-<p align="center"><a href="https://github.com/ConniceT" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/connice-trimmingham-7b9131158/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://connicet.github.io/" target="_blank"><img alt="ConniceT.io" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width=70 height=28 /></a>
-
-</p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 10 at 8:53 PM CST<br />
+<p>credits: <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a>
+<br/>Currently, the weather is: <b> °C, <i><br />

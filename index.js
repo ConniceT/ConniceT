@@ -51,7 +51,7 @@ let DATA = {
 // }
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('adventureislandsvg', 3);
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('stvincentandgrenadines', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
