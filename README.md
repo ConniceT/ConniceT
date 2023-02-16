@@ -89,8 +89,10 @@
 <h3> 🤖 Fun Fact about me: </h3>
 <p> If I can be anywhere in the world it would be on a beach drinking coconut water <p>
 <p> Programming is tough, here is my favorite daily quote:</p>
-<p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "200" />
-</p>
+<!-- markdownlint-disable MD033 -->
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "200" /></p>
+<!-- markdownlint-disable MD033 -->
+
 <p> I am from Saint Vincent and the Grenadines, ere are 3 beautiful pictures of my island.</p>
 <p> <img width="200" src= /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>credits: <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a></p>
@@ -104,4 +106,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 4:35 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 4:37 PM CST<br />
