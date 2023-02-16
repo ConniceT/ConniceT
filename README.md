@@ -29,6 +29,7 @@
 <p> ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning.</p>
 <p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
 <p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
+<a href="https://app.daily.dev/Connicee"><img src="https://api.daily.dev/devcards/519d988caa5e42f4b3f0d92e0b6fce36.png?r=lvo" width="400" alt="Connice's Dev Card"/></a>
 </div>
 
 
@@ -96,4 +97,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 10 at 10:18 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 3:08 PM CST<br />

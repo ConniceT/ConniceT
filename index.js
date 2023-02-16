@@ -5,6 +5,7 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const fetch = require('node-fetch');
 const puppeteerService = require('./services/puppeteer.service');
+
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -79,9 +80,9 @@ async function action() {
    * Generate README
    */
   await generateReadMe();
-  
-  await puppeteerService.close();
 
+  await puppeteerService.close();
+  
  
 }
 
