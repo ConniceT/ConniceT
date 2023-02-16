@@ -87,10 +87,9 @@
 </div>
 
 <h3> 🤖 Fun Fact about me: </h3>
-<p> If i can be anywhere in the world it would be on a beach drinking coco nut water <p>
-<p> Programming is touch, here is my favorite daily quote:</p>
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+<p> If I can be anywhere in the world it would be on a beach drinking coconut water <p>
+<p> Programming is tough, here is my favorite daily quote:</p>
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "200" />
 </p>
 <p> I am from Saint Vincent and the Grenadines, ere are 3 beautiful pictures of my island.</p>
 <p> <img width="200" src= /> <img width="200" src="" /> <img width="200" src="" /></p>
@@ -105,4 +104,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 4:32 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 4:35 PM CST<br />
