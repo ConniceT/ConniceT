@@ -23,13 +23,18 @@
 <p> University of Arkansas at Little Rock (UALR), USA (4.0/4.0) 2021 - 2022, Masters in Computer Science</p>
 <br/>
 <h3>🤖 Skills: </h3>
-<p> ● Programming: Python, Java, C#, C++ ,JavaScript, React, Node.js, PySpark, GIT, Linux, Distributed systems, Spring Boot ecosystem </p>
-<p> ● Cloud: AWS, S3, EC2, Google CLoud Platform, Azure </p>
-<p> ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow
-<p> ● Machine Learning: tensorflow, pytorch, keras, matlab, pandas, numpy, clustering, scikit-learn, deep learning.</p>
+
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/Connicee"><img src="https://api.daily.dev/devcards/519d988caa5e42f4b3f0d92e0b6fce36.png?r=x0a" width="200" align="right"  alt="Connice's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
+<p> ● Programming: Python, Java, C#,JavaScript, React, Node.js, PySpark, GIT, Spring Boot </p>
+<p> ● Cloud: AWS, S3, EC2, Google CLoud Platform </p>
+<p> ● Infrastructure-as-code: Terraform, Docker, Kubernetes, YAML, Airflow</p>
+<p> ● Machine Learning: tensorflow, pytorch, keras, pandas, numpy, scikit-learn.</p>
 <p> ● Database: SQL, mySQL, MongoDB, Elastic search </p>
-<p> ● Analytics and Visualization: Gephi, Network Analysis, Power-BI, Tableau </p>
-<a href="https://app.daily.dev/Connicee"><img src="https://api.daily.dev/devcards/519d988caa5e42f4b3f0d92e0b6fce36.png?r=lvo" width="400" alt="Connice's Dev Card"/></a>
+<p> ● Visualization: Gephi, Graph theory, Power-BI, Tableau </p>
 </div>
 
 
@@ -97,4 +102,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 3:08 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 3:49 PM CST<br />
