@@ -22,12 +22,12 @@
 <h3> 🤖 Education: </h3>
 <p> University of Arkansas at Little Rock (UALR), 2021 - 2022, Masters in Computer Science</p>
 <br/>
-<h3>🤖 Skills: </h3>
-
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/Connicee"><img src="https://api.daily.dev/devcards/519d988caa5e42f4b3f0d92e0b6fce36.png?r=x0a" width="200" align="right"  alt="Connice's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
+
+<h3>🤖 Skills: </h3>
 
 <p> ● Programming: Python, Java, C#,JavaScript, React, Node.js, GIT, Spring Boot </p>
 <p> ● Cloud: AWS, S3, EC2, Google CLoud Platform </p>
@@ -103,4 +103,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 3:53 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 3:55 PM CST<br />
