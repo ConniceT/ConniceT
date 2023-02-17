@@ -78,24 +78,35 @@
 
 <div>
  <hr color="green" />
-<h3> 🤖 Professional Certifications: </h3>
-<p>  ⭐️ Nvidia Deep learning </p>
-<p> ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) packages such as tensorflow and pytorch </p>
-<p> ⭐️ AWS Cloud Solutions Architect Acquired deep understanding of cloud technologies such as S3, CloudFront, EC2, lambda redshift</p>
-<p> ⭐️ Computer Vision -Python (OpenCV)-YOLO, SSD - Built a trained model to detect and track facial covid mask images.(Unsupervised Learning) </p>
 
 </div>
-
 <h3> 🤖 Fun Fact about me: </h3>
 <p> If I can be anywhere in the world it would be on a beach drinking coconut water <p>
 <p> Programming is tough, here is my favorite daily quote:</p>
 <!-- markdownlint-disable MD033 -->
-<p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "200" /></p>
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "250" /></p>
 <!-- markdownlint-disable MD033 -->
 
-<p> I am from Saint Vincent and the Grenadines, ere are 3 beautiful pictures of my island.</p>
-<p> <img width="200" src= /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p> I am a proud caribbean</p>
+<p> A Vincentian to be exact!</p>
+<p> Here are 3 beautiful pictures of my island.</p>
+<div>
+  <img src="instagram_posts/post_0/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_1/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_2/post.jpg" width="250" height="250"/>
+</div>
+<p> <img width="200" src=" /></p> }} }}
 <p>credits: <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a></p>
+
+
+<hr color="green" />
+<h3> 🤖 Professional Certifications: </h3>
+<p> ⭐️ Nvidia Deep learning </p>
+<p> ⭐️ ML & Deep learning - Developed mastery to train data using neural networks (ANN, CNN, RNN) </p>
+<p> ⭐️ AWS Cloud Solutions Architect - S3, CloudFront, EC2, lambda redshift</p>
+<p> ⭐️ Computer Vision -Python (OpenCV)-YOLO, SSD  </p>
+
+
 
 
 
@@ -106,4 +117,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 4:37 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, February 16 at 8:37 PM CST<br />

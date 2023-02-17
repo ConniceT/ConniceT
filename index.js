@@ -23,42 +23,6 @@ let DATA = {
     timeZone: 'US/Central',
   }),
 };
-/**
-  * A - We open 'main.mustache'
-  * B - We ask Mustache to render our file with the data
-  * C - We create a README.md file with the generated output
-  */
-
-//  async function setWeatherInformation() {
-//   await fetch(
-//     `https://api.thermap.org/data/2.5/weather?lat=34.7445&lon=92.2880&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
-//   )
-//     .then(r => r.json())
-//     .then(r => {
-//       DATA.city_temperature = Math.round(r.main.temp);
-//       DATA.city_weather = r.weather[0].description;
-//       DATA.city_weather_icon = r.weather[0].icon;
-//       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
-//         hour: '2-digit',
-//         minute: '2-digit',
-//         timeZone: 'US/Central',
-//       });
-//       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
-//         hour: '2-digit',
-//         minute: '2-digit',
-//         timeZone: 'US/Central',
-//       });
-//     });
-// }
-
-async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('stvincentandgrenadines', 3);
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
-}
-
-
 
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
@@ -69,20 +33,7 @@ function generateReadMe() {
 }
 
 async function action() {
-  /**
-   * Fetch Weather
-   */
-  // await setWeatherInformation();
-
-  await setInstagramPosts();
-
-  /**
-   * Generate README
-   */
   await generateReadMe();
-
-  await puppeteerService.close();
-  
  
 }
 

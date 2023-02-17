@@ -2,10 +2,10 @@
 import instaloader
 
 import os, glob
-L = instaloader.Instaloader()
+# L = instaloader.Instaloader()
 
-def fetch_recent_K_photos(K, handle, L):
-    profile = instaloader.Profile.from_username(L.context, handle)
+def fetch_recent_K_photos(K, handle, loader_instance):
+    profile = instaloader.Profile.from_username(loader_instance.context, handle)
     posts = profile.get_posts()
     top_K_posts = []
     for p in posts:
