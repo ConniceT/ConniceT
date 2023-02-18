@@ -17,18 +17,18 @@ jobs:
           python-version: 3.9
       - name: requirements.txt
         run: |
-          pip install -r ./scripts/requirements.txt 
+          pip install -r ./requirements.txt 
       - name: generate
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
-          python ./scripts/fetch_spotify.py
+          python ./fetch_spotify.py
       - name: Commit and push if changed
         run: |
           git add .
-          git config --global user.email "sachinmalhotra1993@gmail.com"
-          git config --global user.name "edorado93"
+          git config --global user.email "ctrimmingham@ualr.edu"
+          git config --global user.name "ConniceT"
           git commit -m "Updated spotify.svg"
           git push origin main
