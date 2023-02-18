@@ -88,7 +88,6 @@
  <hr color="green" />
 
 <h3> 🤖 Fun Fact about me: </h3>
-<p> 🥥 If I can be anywhere in the world it would be on a beach drinking coconut water <p>
 <p> 🧠 Programming is tough, here is my favorite daily quote and current spotify track 🎧:</p>
 <!-- markdownlint-disable MD033 -->
 <p align="left"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "250" /></p>
@@ -99,7 +98,7 @@
 [![Spotify](https://github.com/ConniceT/ConniceT/blob/main/spotify.svg)](https://open.spotify.com/user/Konnice)
 
 
-
+<p> 🥥 If I can be anywhere in the world it would be on a beach drinking coconut water <p>
 <p> ● I am a proud caribbean, A Vincentian to be exact! 🇻🇨 </p>
 <p> ● Here are 3 beautiful pictures of my island  credits:  <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a></p>
 
@@ -122,4 +121,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 6:59 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 7:00 PM CST<br />
