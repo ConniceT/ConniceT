@@ -96,7 +96,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <!-- markdownlint-disable MD033 -->
-<a herf = "https://open.spotify.com/user/Konnice"> <img src = "https://github.com/ConniceT/ConniceT/blob/main/spotify.svg" width ="200" algin="right"/></a>
+<a herf = "https://open.spotify.com/user/Konnice"> <img src = "https://github.com/ConniceT/ConniceT/blob/main/spotify.svg" algin="right"/></a>
 
 <!-- markdownlint-disable MD033 -->
 
@@ -123,4 +123,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 6:53 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 6:54 PM CST<br />
