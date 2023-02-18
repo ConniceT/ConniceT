@@ -93,12 +93,12 @@
 <p> 🧠 Programming is tough, here is my favorite daily quote and current spotify track 🎧:</p>
 <!-- markdownlint-disable MD033 -->
 <p align="right"><img src="https://quotes-github-readme.vercel.app/api?&theme=light)](https://github.com/piyushsuthar/github-readme-quotes"  width= "250" /></p>
-<!-- markdownlint-disable MD033 -->
-
-<!-- markdownlint-disable MD033 -->
 <a herf = "https://open.spotify.com/user/Konnice"> <img src = "https://github.com/ConniceT/ConniceT/blob/main/spotify.svg" algin="left"/></a>
 
 <!-- markdownlint-disable MD033 -->
+
+
+
 
 
 <p> ● I am a proud caribbean, A Vincentian to be exact! 🇻🇨 </p>
@@ -123,4 +123,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 6:55 PM CST<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, February 17 at 6:56 PM CST<br />
