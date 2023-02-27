@@ -42,7 +42,7 @@ def refreshToken():
     response = requests.post(REFRESH_TOKEN_URL, data=data, headers=headers)
 
     try:
-        return response.json()["access_token"]
+        return response.json()
     except KeyError:
         print(json.dumps(response.json()))
         print("\n---\n")
@@ -104,6 +104,7 @@ def makeSVG(data, background_color, border_color):
     barCount = 84
     contentBar = "".join(["<div class='bar'></div>" for i in range(barCount)])
     barCSS = barGen(barCount)
+
 
     if  data=={} or data["item"] and data["item"] == "None" or data["item"] is None:
         # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
