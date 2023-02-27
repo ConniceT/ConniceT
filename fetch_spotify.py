@@ -53,6 +53,7 @@ def recentlyPlayed():
     token = refreshToken()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
+    print(response.json())
 
     if response.status_code == 204:
         return {}
@@ -63,6 +64,7 @@ def nowPlaying():
     token = refreshToken()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(NOW_PLAYING_URL, headers=headers)
+  
 
     if response.status_code == 204:
         return {}
@@ -103,7 +105,7 @@ def makeSVG(data, background_color, border_color):
     contentBar = "".join(["<div class='bar'></div>" for i in range(barCount)])
     barCSS = barGen(barCount)
 
-    if data == {} or data["item"] == "None" or data["item"] is None:
+    if  data=={} or data["item"] and data["item"] == "None" or data["item"] is None:
         # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
         currentStatus = "Was playing:"
         recentPlays = recentlyPlayed()
@@ -145,6 +147,8 @@ def catch_all():
     border_color = "181414"
 
     data = nowPlaying()
+    print(data.keys())
+
     svg = makeSVG(data, background_color, border_color)
 
     with open('spotify.svg', 'w') as f:
