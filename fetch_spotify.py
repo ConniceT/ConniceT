@@ -23,7 +23,8 @@ REFRESH_TOKEN_URL = "https://accounts.spotify.com/api/token"
 NOW_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 RECENTLY_PLAYING_URL = (
     "https://api.spotify.com/v1/me/player/recently-played?limit=10"
-)
+    )
+
 
 app = Flask(__name__)
 
@@ -42,7 +43,7 @@ def refreshToken():
     response = requests.post(REFRESH_TOKEN_URL, data=data, headers=headers)
 
     try:
-        return response.json()
+        return response.json()["access_token"]
     except KeyError:
         print(json.dumps(response.json()))
         print("\n---\n")
@@ -104,28 +105,45 @@ def makeSVG(data, background_color, border_color):
     barCount = 84
     contentBar = "".join(["<div class='bar'></div>" for i in range(barCount)])
     barCSS = barGen(barCount)
+    item = None
+    songName =""
+    songURI= ""
+    artistURI= ""
+    artistName=""
 
 
-    if  data=={} or data["item"] and data["item"] == "None" or data["item"] is None:
+    # if  data=={} or data["item"] and data["item"] == "None" or data["item"] is None:
+    if not data or "item" not in data or data["item"] == "None" or data["item"] is None:
         # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
         currentStatus = "Was playing:"
         recentPlays = recentlyPlayed()
-        recentPlaysLength = len(recentPlays["items"])
-        itemIndex = random.randint(0, recentPlaysLength - 1)
-        item = recentPlays["items"][itemIndex]["track"]
+
+        if "items" not in recentPlays:
+            recentPlaysLength = 0
+        else:
+            recentPlaysLength = len(recentPlays["items"])
+            itemIndex = random.randint(0, recentPlaysLength - 1)
+            item = recentPlays["items"][itemIndex]["track"]
     else:
         item = data["item"]
         currentStatus = "Vibing to:"
 
-    if item["album"]["images"] == []:
-        image = PLACEHOLDER_IMAGE
-    else:
+    if item and item["album"]["images"]:
         image = loadImageB64(item["album"]["images"][1]["url"])
+    else:
+        image = PLACEHOLDER_IMAGE
 
-    artistName = item["artists"][0]["name"].replace("&", "&amp;")
-    songName = item["name"].replace("&", "&amp;")
-    songURI = item["external_urls"]["spotify"]
-    artistURI = item["artists"][0]["external_urls"]["spotify"]
+    if item is not None and "artists" in item and len(item["artists"]) > 0:
+        artistName = item["artists"][0]["name"]
+        artistURI = item["artists"][0]["external_urls"]["spotify"]
+    else: 
+        artistName= "unknown "
+        
+    if item is not None and "name" in item and len(item["name"]) > 0:
+        songName = item["name"]
+    if item is not None and "external_urls" in item and len(item["external_urls"]) > 0:
+        songURI = item["external_urls"]["spotify"]
+    
 
     dataDict = {
         "contentBar": contentBar,
@@ -148,7 +166,7 @@ def catch_all():
     border_color = "181414"
 
     data = nowPlaying()
-    print(data.keys())
+    print(data)
 
     svg = makeSVG(data, background_color, border_color)
 
