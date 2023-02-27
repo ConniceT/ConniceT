@@ -42,12 +42,17 @@ def refreshToken():
     headers = {"Authorization": "Basic {}".format(getAuth())}
     response = requests.post(REFRESH_TOKEN_URL, data=data, headers=headers)
 
-    try:
+    # try:
+    #     return response.json()["access_token"]
+    # except KeyError:
+    #     print(json.dumps(response.json()))
+    #     print("\n---\n")
+    #     raise KeyError(str(response.json()))
+    
+    if "access_token" not in response.json():
+         raise KeyError(str(response.json()))
+    else:
         return response.json()["access_token"]
-    except KeyError:
-        print(json.dumps(response.json()))
-        print("\n---\n")
-        raise KeyError(str(response.json()))
 
 
 def recentlyPlayed():
