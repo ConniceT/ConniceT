@@ -1,6 +1,6 @@
 # from instaloader import Instaloader, Profile
 import instaloader
-from dotenv import load_dotenv
+from python-dotenv import load_dotenv
 
 import os, glob
 # L = instaloader.Instaloader()
