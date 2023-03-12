@@ -27,6 +27,7 @@ if __name__ == "__main__":
 
     L = instaloader.Instaloader(dirname_pattern="instagram_posts/{target}", filename_pattern="post")
     handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
+    print(handle_to_consider)
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
     clean_old_photos("instagram_posts", 3)
     
