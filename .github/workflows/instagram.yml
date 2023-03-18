@@ -17,12 +17,12 @@ jobs:
           python-version: 3.9
       - name: requirements
         run: |
-          pip install instaloader
+          pip3 install instaloader
       - name: generate
         env:
           INSTAGRAM_PUBLIC_HANDLE: ${{ secrets.INSTAGRAM_PUBLIC_HANDLE }}
         run: |
-          python ./fetch_instagram_photos.py
+          python3 ./fetch_instagram_photos.py
       - name: Commit and push if changed
         run: |
           git pull origin main

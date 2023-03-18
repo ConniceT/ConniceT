@@ -42,6 +42,7 @@ def refreshToken():
     headers = {"Authorization": "Basic {}".format(getAuth())}
     response = requests.post(REFRESH_TOKEN_URL, data=data, headers=headers)
 
+    # print(response)
     # try:
     #     return response.json()["access_token"]
     # except KeyError:
@@ -49,8 +50,8 @@ def refreshToken():
     #     print("\n---\n")
     #     raise KeyError(str(response.json()))
     
-    if "access_token" not in response.json():
-         raise KeyError(str(response.json()))
+    if 'access_token' not in (response.json()):
+        raise KeyError(str(response.json()))
     else:
         return response.json()["access_token"]
 
@@ -59,7 +60,7 @@ def recentlyPlayed():
     token = refreshToken()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
-    print(response.json())
+
 
     if response.status_code == 204:
         return {}
@@ -171,9 +172,9 @@ def catch_all():
     border_color = "181414"
 
     data = nowPlaying()
-    print(data)
 
     svg = makeSVG(data, background_color, border_color)
+    # print(svg)
 
     with open('spotify.svg', 'w') as f:
         f.write(svg)

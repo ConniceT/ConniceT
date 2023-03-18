@@ -1,9 +1,8 @@
 // index.js
-require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const fetch = require('node-fetch');
+// const fetch = require('node-fetch');
 // const puppeteerService = require('./services/puppeteer.service');
 
 /**
@@ -20,7 +19,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'US/Central',
+    timeZone: 'America/Chicago',
   }),
 };
 

@@ -1,4 +1,5 @@
 # from instaloader import Instaloader, Profile
+import itertools
 import instaloader
 from dotenv import load_dotenv
 
@@ -10,12 +11,8 @@ def fetch_recent_K_photos(K, handle, loader_instance):
     profile = instaloader.Profile.from_username(loader_instance.context, handle)
     posts = profile.get_posts()
     top_K_posts = []
-    for p in posts:
+    for p in itertools.islice(posts, K):
         top_K_posts.append(p)
-        K -= 1
-
-        if not K:
-            return top_K_posts
 
     return top_K_posts
 
@@ -29,6 +26,7 @@ if __name__ == "__main__":
 
     L = instaloader.Instaloader(dirname_pattern="instagram_posts/{target}", filename_pattern="post")
     handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
+    print(handle_to_consider)
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
     clean_old_photos("instagram_posts", 3)
     
