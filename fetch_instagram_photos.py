@@ -8,6 +8,7 @@ import os, glob
 # L = instaloader.Instaloader()
 load_dotenv()
 
+
 def fetch_recent_K_photos(K, handle, loader_instance):
     profile = instaloader.Profile.from_username(loader_instance.context, handle)
     posts = profile.get_posts()
@@ -28,7 +29,9 @@ if __name__ == "__main__":
 
     L = instaloader.Instaloader(dirname_pattern="instagram_posts/{target}", filename_pattern="post")
     handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
-    print(handle_to_consider)
+    USER = os.getenv("INSTA_USERNAME")
+    PASSWORD = os.getenv("INSTA_PASSWORD")
+    L.login(USER, PASSWORD)
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
     clean_old_photos("instagram_posts", 3)
     
