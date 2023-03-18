@@ -18,6 +18,8 @@ jobs:
       - name: requirements
         run: |
           pip3 install instaloader
+          pip3 install python-dotenv
+
       - name: generate
         env:
           INSTAGRAM_PUBLIC_HANDLE: ${{ secrets.INSTAGRAM_PUBLIC_HANDLE }}

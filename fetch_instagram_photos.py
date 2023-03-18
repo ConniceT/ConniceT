@@ -2,6 +2,7 @@
 import itertools
 import instaloader
 from dotenv import load_dotenv
+import itertools
 
 import os, glob
 # L = instaloader.Instaloader()
@@ -15,6 +16,7 @@ def fetch_recent_K_photos(K, handle, loader_instance):
         top_K_posts.append(p)
 
     return top_K_posts
+
 
 def clean_old_photos(path, num_photos):
     for i in range(num_photos):
