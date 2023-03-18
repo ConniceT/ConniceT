@@ -24,7 +24,7 @@ jobs:
           SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
-          python ./fetch_spotify.py
+          python3 ./fetch_spotify.py
       - name: Commit and push if changed
         run: |
           git add .
