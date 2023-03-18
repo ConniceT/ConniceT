@@ -101,6 +101,15 @@
 <p> 🥥 If I can be anywhere in the world it would be on a beach drinking coconut water <p>
 <p> ● I am a proud caribbean, A Vincentian to be exact! 🇻🇨 </p>
 
+<p> ● Here are 3 beautiful pictures of my island  credits:  <a href="https://www.instagram.com/stvincentandgrenadines/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @stvincentandgrenadines</a></p>
+
+
+<div>
+  <img src="instagram_posts/post_0/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_1/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_2/post.jpg" width="250" height="250"/>
+</div>
+
 <br/>
 
 
@@ -113,4 +122,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, March 18 at 12:23 PM CDT<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, March 18, 2:49 PM CDT<br />
