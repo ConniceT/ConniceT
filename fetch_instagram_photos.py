@@ -31,7 +31,7 @@ if __name__ == "__main__":
     handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
     USER = os.getenv("INSTA_USERNAME")
     PASSWORD = os.getenv("INSTA_PASSWORD")
-    L.login(USER, PASSWORD)
+    L.context.login(USER, PASSWORD)
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
     clean_old_photos("instagram_posts", 3)
     
