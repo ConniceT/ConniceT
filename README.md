@@ -7,7 +7,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width= "60" , height="50"/> Hi there. Welcome to my github </h1>
 
 <div>
-<p> </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
+<p> </br> Name Pronunciations:
+Connice = Con-ni-ece; Trimmingham = Trim-ming-ham
+
+Talks about #Tech, #Innovation, #creativity, #swe, and #data || Software Engineer 
+
+An Experiential engineer that strives to bring a youthful approach to work, stays up to date on the best industry practices and pushes her ability to dive into large-scale projects with lot of ambiguity and drill down tenacity.</p>
 
 <h3> I enjoy building my skills in the following areas: </h3>
 <p>⭐️  Software Development - (backend) </p>
