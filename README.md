@@ -8,9 +8,7 @@
 
 <div>
 <p> </br> Name Pronunciations:
-Connice = Con-ni-ece; Trimmingham = Trim-ming-ham
-
-Talks about #Tech, #Innovation, #creativity, #swe, and #data || Software Engineer 
+Connice = Con-ni-ece; 
 
 An Experiential engineer that strives to bring a youthful approach to work, stays up to date on the best industry practices and pushes her ability to dive into large-scale projects with lot of ambiguity and drill down tenacity.</p>
 
