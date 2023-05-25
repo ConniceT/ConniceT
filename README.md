@@ -7,10 +7,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width= "60" , height="50"/> Hi there. Welcome to my github </h1>
 
 <div>
-<p> </br> Name Pronunciations:
-Connice = Con-ni-ece; 
-
-An Experiential engineer that strives to bring a youthful approach to work, stays up to date on the best industry practices and pushes her ability to dive into large-scale projects with lot of ambiguity and drill down tenacity.</p>
+<p> </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
 
 <h3> I enjoy building my skills in the following areas: </h3>
 <p>⭐️  Software Development - (backend) </p>
@@ -125,4 +122,4 @@ An Experiential engineer that strives to bring a youthful approach to work, stay
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, May 24, 10:12 PM CDT<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, May 25, 1:15 AM CDT<br />
