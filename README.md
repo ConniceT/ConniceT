@@ -114,10 +114,12 @@
 
 
 
-<br/>
-![Metrics](https://github.com/ConniceT/ConniceT/blob/main/github-metrics.svg)
+<div>
 
-<br/>
+  
+![Metrics](https://github.com/ConniceT/ConniceT/blob/main/github-metrics.svg)
+</div>
+
 
 
 
