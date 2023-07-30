@@ -113,9 +113,6 @@
 <br/>
 
 
- <hr color="green" />
-
-![Metrics](https://github.com/ConniceT/ConniceT/blob/main/github-metrics.svg)
 
 
 <p align="center"><a href="https://github.com/ConniceT" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -125,9 +122,4 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 25, 1:14 PM CDT<br />
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, July 29, 10:11 PM CDT<br />
