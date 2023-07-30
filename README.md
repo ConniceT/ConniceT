@@ -115,7 +115,7 @@
 
  <hr color="green" />
  
-![Metrics](https://ConniceT.github.io/ConniceT/github-metrics.svg)
+![Metrics](https://ConniceT.github.io/ConniceT/metrics/github-metrics.svg)
 
 
 
