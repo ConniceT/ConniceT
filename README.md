@@ -114,6 +114,11 @@
 
 
 
+ <hr color="green" />
+
+![Metrics](https://ConniceT.github.io/ConniceT/metrics/github-metrics.svg)
+
+
 
 <p align="center"><a href="https://github.com/ConniceT" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/connice-trimmingham-7b9131158/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -122,4 +127,10 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ConniceT&style=flat-square&color=blue" alt=""/> </p>
-<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, August 1, 1:14 PM CDT<br />
+<p align="center" >This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, August 1, 4:10 PM CDT<br />
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
