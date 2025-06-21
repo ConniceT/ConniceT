@@ -7,13 +7,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width= "60" , height="50"/> Hi there. Welcome to my github </h1>
 
 <div>
-<p> </br> My name is Connice, I am a backend developer with a demonstrated history of working in multi discipline industry.</p>
+<p> </br> My name is Connice, I am a Software Engineer with a demonstrated history of working in multi discipline industry.</p>
 
 <h3> I enjoy building my skills in the following areas: </h3>
 <p>⭐️  Software Development - (backend) </p>
-<p>⭐️  Data Engineering </p>
-<p>⭐️  Cloud technologies </p>
 <p>⭐️  Artificial Intelligence </p>
+<p>⭐️  Cloud technologies </p>
+<p>⭐️  Data Engineering </p>
 </div>
 </p>
 
